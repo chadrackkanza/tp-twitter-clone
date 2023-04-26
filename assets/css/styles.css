@@ -48,3 +48,34 @@ body {
     padding: 12px;
     border-radius: 30px;
 }
+
+footer img{
+    width: 50px;
+}
+
+footer .footer{
+    display: grid;
+    grid-template-columns: 75% 25%;
+    margin-top: 90px
+     
+}
+
+footer .footer .footer-gauche{
+    display: flex;
+    
+} 
+
+footer  p{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+footer p br{
+    font-size: 10px; 
+    text-decoration: none;  
+}
+
+.footer-more {
+    position: right;
+    margin-top: 25px;
+}
